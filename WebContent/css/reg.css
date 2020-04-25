@@ -1,0 +1,22 @@
+.b{
+height:880px;
+background-image:url(../images/index-bg4.jpg);
+background-size:100% ;
+margin:0 auto;
+}
+fieldset{
+width:347px;
+margin:0 auto;
+position:relative;
+top:100px;
+}
+input{
+width:99%;
+height:30px;
+box-shadow:1px;
+border-radius:3px;
+background:none;
+}
+.d{
+margin:10px 0;
+}

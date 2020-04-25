@@ -1,0 +1,87 @@
+.q{
+width:1536px;
+height:847px;
+background-size:100% ;
+margin:0 auto;
+background-image:url(../images/index-bg3.jpg);
+}
+.w{
+width:400px;
+height:450px;
+border:1px solid #ffffff;
+border-radius:20px;
+position:relative;
+top:175px;
+left:550px;
+}
+.e{
+position:relative;
+left:141px;
+margin-top:30px;
+}
+.n{
+width:80%;
+height:30px;
+background:none;
+border-radius:20px;
+margin-top:20px;
+margin-left:20px;
+background-image:url(../images/timg.jpg);
+background-repeat:no-repeat;
+background-position:10px center;
+text-indent:35px;
+}
+.p{
+width:80%;
+height:30px;
+background:none;
+border-radius:20px;
+margin-top:20px;
+margin-left:20px;
+background-image:url(../images/password.jpg);
+background-repeat:no-repeat;
+background-position:10px center;
+text-indent:35px;
+}
+.log{
+width:82%;
+height:35px;
+border-radius:20px;
+margin-top:20px;
+margin-left:20px;
+background-color:#ffc0cb;
+color:#ff4500;
+font-weight:bold;
+}
+.r{
+float:left;
+margin-left:30px;
+margin-top:85px;
+font-weight:bold;
+}
+.t{
+float:right;
+margin-right:30px;
+margin-top:85px;
+font-weight:bold;
+color:
+}
+.q .w .r a,a:visited{
+color:#e20000;
+text-decoration:none;
+}
+.q .w .r a:hover,a:active{
+color:#ffc0cb;
+}
+.q .w .t a,a:visited{
+color:#8d75ac;
+text-decoration:none;
+}
+.q .w .t a:hover,a:active{
+color:#ff4500;
+}
+.g{
+font:60px/2.0 tahoma,'\5b8b\4f53',sans-serif;
+text-align:center;
+margin-top:280px;
+}
